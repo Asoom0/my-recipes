@@ -1,0 +1,158 @@
+{
+  "app_name": "My Recipes",
+
+  "intro": {
+    "description": "A cookbook made by you - for you"
+  },
+
+  "login": {
+    "app_bar": "Login",
+    "successful": "Login successful",
+    "welcome_back": "Welcome Back",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "goto_signup_text": "Do not have an account? ",
+    "failed_to_retrieve": "Failed to retrieve user ID.",
+    "user_not_found": "User not found in Firestore.",
+    "unknown_error": "An unknown error occurred during login."
+  },
+
+  "signup": {
+    "app_bar": "Signup",
+    "successful": "Signup successful",
+    "welcome": "Welcome",
+    "goto_login_text": "Already have an account? "
+  },
+
+  "reset_password": {
+    "app_bar": "Reset Password",
+    "button": "Reset Password",
+    "email_sent": "Password reset email sent",
+    "error": "Please enter your email address",
+    "hint": "Enter your email to reset your password"
+  },
+
+  "home": {
+    "hello": "Hello",
+    "app_bar": "What would you like to cook today ?",
+    "for_you": "For you",
+    "latest": "Latest Recipes",
+    "no_categories": "No categories available",
+    "view_all": "View all",
+    "categories": "Categories",
+    "breakfast": "Breakfast",
+    "meal": "Meal",
+    "salad": "Salad",
+    "dessert": "Dessert",
+    "error": "Failed to load recipes"
+  },
+
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "search": "Search",
+    "favorites": "Favorites",
+    "profile": "Profile"
+  },
+
+  "categories": {
+    "app_bar": "Categories",
+    "breakfast": "Breakfast",
+    "meal": "Meal",
+    "salad": "Salad",
+    "dessert": "Dessert",
+    "soup": "Soup",
+    "bakery": "Bakery",
+    "cake": "Cake",
+    "juice": "Juice"
+  },
+
+  "favorites": {
+    "app_bar": "Favorites",
+    "empty": "No Favorites yet",
+    "removed": "Removed from favorites",
+    "added": "Added to favorites"
+  },
+
+  "search": {
+    "app_bar": "Search",
+    "hint": "Search...",
+    "no_result": "No recipe found.",
+    "no_history": "No search history.",
+    "no_name": "No Name",
+    "history": "Search History",
+    "error": "Something went wrong while searching."
+  },
+
+  "profile": {
+    "app_bar": "Profile",
+    "name": "Name",
+    "edit_name": "Edit Name",
+    "enter_new_name": "Enter new name",
+    "save": "Save",
+    "cancel": "Cancel",
+    "dark_mode": "Dark Mode",
+    "change_language": "Language",
+    "sign_out": "Sign Out",
+    "delete_account": "Delete Account",
+    "delete_confirm_title": "Delete Account",
+    "delete_confirm_content": "Are you sure you want to delete your account?",
+    "delete_failed": "Failed to delete account. Please login again.",
+    "error_upload_photo": "Failed to update photo",
+    "photo_saved": "Profile photo saved",
+    "guest_user": "Guest User",
+    "no_email": "No Email",
+    "no_name": "No Name"
+  },
+
+  "add_recipe": {
+    "app_bar": "Add Recipe",
+    "edit_app_bar": "Edit Recipe",
+    "name": "recipe name",
+    "ingredients": "ingredients",
+    "instructions": "instructions",
+    "add_button": "Add Recipe",
+    "added_success": "Recipe added successfully",
+    "updated_success": "Recipe Updated successfully",
+    "add_image": "Add image",
+    "error_empty_fields": "All fields are required",
+    "error_add_failed": "Failed to add recipe"
+  },
+
+  "details": {
+    "app_bar": "Recipe Details",
+    "name": "Recipe name",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "deleted_success": "Recipe deleted successfully",
+    "delete": "Delete Recipe",
+    "delete_button": "Delete",
+    "delete_confirm": "Are you sure you want to delete this recipe?",
+    "delete_failed": "Failed to delete the recipe",
+    "update_failed": "Failed to update the recipe",
+    "no_name": "No Name"
+  },
+
+  "shared": {
+    "login": "Login",
+    "signup": "Signup",
+    "cancel": "Cancel",
+    "select_category": "Please select a category",
+    "unknown_error": "An unknown error occurred",
+    "no_recipe": "No recipe found."
+  },
+
+  "text_field_style": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password"
+  },
+
+  "edit_recipe": {
+    "app_bar": "Edit recipe",
+    "edit_button": "Save",
+    "recipe_updated":"recipe updated successfully",
+    "failed_to_load_image": "Failed to load image"
+  },
+}

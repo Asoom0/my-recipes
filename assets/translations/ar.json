@@ -1,0 +1,157 @@
+{
+  "app_name": "وصفاتي",
+
+  "intro": {
+    "description": "كتاب طبخ من صنعك - ولك"
+  },
+
+  "login": {
+    "app_bar": "تسجيل الدخول",
+    "successful": "تم تسجيل الدخول بنجاح",
+    "welcome_back": "مرحبًا بعودتك",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgot_password": "هل نسيت كلمة المرور؟",
+    "goto_signup_text": "ليس لديك حساب؟",
+    "failed_to_retrieve": "فشل في جلب معرف المستخدم.",
+    "user_not_found": "المستخدم غير موجود في قاعدة البيانات.",
+    "unknown_error": "حدث خطأ غير معروف أثناء تسجيل الدخول."
+  },
+
+  "signup": {
+    "app_bar": "إنشاء حساب",
+    "successful": "تم إنشاء الحساب بنجاح",
+    "welcome": "مرحبًا بك",
+    "goto_login_text": "لديك حساب بالفعل؟"
+  },
+
+  "reset_password": {
+    "app_bar": "إعادة تعيين كلمة المرور",
+    "button": "إعادة تعيين كلمة المرور",
+    "email_sent": "تم إرسال رابط إعادة التعيين إلى بريدك الإلكتروني",
+    "error": "يرجى إدخال عنوان بريدك الإلكتروني",
+    "hint": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور"
+  },
+
+  "home": {
+    "hello": "مرحبًا",
+    "app_bar": "ماذا تود أن تطبخ اليوم؟",
+    "for_you": "مقترح لك",
+    "latest": "أحدث الوصفات",
+    "no_categories": "لا توجد تصنيفات متاحة",
+    "view_all": "عرض الكل",
+    "categories": "التصنيفات",
+    "breakfast": "فطور",
+    "meal": "وجبات",
+    "salad": "سلطة",
+    "dessert": "حلى",
+    "error": "فشل في تحميل الوصفات"
+  },
+
+  "nav": {
+    "home": "الرئيسية",
+    "categories": "التصنيفات",
+    "search": "بحث",
+    "favorites": "المفضلة",
+    "profile": "الملف الشخصي"
+  },
+
+  "categories": {
+    "app_bar": "التصنيفات",
+    "breakfast": "فطور",
+    "meal": "وجبات",
+    "salad": "سلطة",
+    "dessert": "حلى",
+    "soup": "شوربة",
+    "bakery": "مخبوزات",
+    "cake": "كيك",
+    "juice": "عصير"
+  },
+
+  "favorites": {
+    "app_bar": "المفضلة",
+    "empty": "لا يوجد وصفات في المفضلة",
+    "removed": "تم إزالته من المفضلة",
+    "added": "تم إضافته إلى المفضلة"
+  },
+
+  "search": {
+    "app_bar": "بحث",
+    "hint": "ابحث...",
+    "no_result": "لم يتم العثور على وصفات.",
+    "no_history": "لا يوجد سجل بحث.",
+    "history": "سجل البحث",
+    "error": "حدث خطأ أثناء البحث.",
+    "no_name": "لا يوجد اسم"
+  },
+
+  "profile": {
+    "app_bar": "الملف الشخصي",
+    "name": "الاسم",
+    "edit_name": "تعديل الاسم",
+    "enter_new_name": "أدخل الاسم الجديد",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "dark_mode": "الوضع الداكن",
+    "change_language": "اللغة",
+    "sign_out": "تسجيل الخروج",
+    "delete_account": "حذف الحساب",
+    "delete_confirm_title": "حذف الحساب",
+    "delete_confirm_content": "هل أنت متأكد أنك تريد حذف حسابك؟",
+    "delete_failed": "فشل في حذف الحساب. يرجى تسجيل الدخول مرة أخرى.",
+    "error_upload_photo": "فشل تحديث الصورة",
+    "photo_saved": "تم حفظ الصورة",
+    "guest_user": "مستخدم زائر",
+    "no_email": "لا يوجد بريد إلكتروني",
+    "no_name": "لا يوجد اسم"
+  },
+
+  "add_recipe": {
+    "app_bar": "إضافة وصفة",
+    "edit_app_bar": "تعديل وصفة",
+    "name": "اسم الوصفة",
+    "ingredients": "المكونات",
+    "instructions": "طريقة التحضير",
+    "add_button": "إضافة وصفة",
+    "added_success": "تمت إضافة الوصفة بنجاح",
+    "updated_success": "تم تعديل الوصفة بنجاح",
+    "add_image": "إضافة صورة",
+    "error_empty_fields": "جميع الحقول مطلوبة",
+    "error_add_failed": "فشل في إضافة الوصفة"
+  },
+
+  "details": {
+    "app_bar": "تفاصيل الوصفة",
+    "name": "اسم الوصفة",
+    "ingredients": "المكونات",
+    "instructions": "طريقة التحضير",
+    "deleted_success": "تم حذف الوصفة بنجاح",
+    "delete": "حذف الوصفة",
+    "delete_button": "حذف",
+    "delete_confirm": "هل أنت متأكد أنك تريد حذف هذه الوصفة؟",
+    "delete_failed": "فشل في حذف الوصفة",
+    "update_failed": "فشل في تحديث الوصفة"
+  },
+
+  "shared": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "cancel": "إلغاء",
+    "select_category": "يرجى اختيار تصنيف",
+    "unknown_error": "حدث خطأ غير معروف",
+    "no_recipe": "لا يوجد وصفات."
+  },
+
+  "text_field_style": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة السر"
+  },
+
+  "edit_recipe": {
+    "app_bar": "تعديل الوصفة",
+    "recipe_updated":"تم تعديل الوصفة بنجاح",
+    "edit_button": "حفظ",
+    "failed_to_load_image": "فشل تحميل الصورة"
+  }
+}
