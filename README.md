@@ -1,16 +1,45 @@
-# my_recipes
+# My Recipes – Mobile Recipe App (Flutter & Firebase)
 
-A new Flutter project.
+##  Description
+A complete recipe application for both Android and **iOS** platforms, allowing users to save, search, and manage their recipes easily with an intuitive UI and real-time data synchronization via Firebase.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  App Screenshots
+### Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshots/Home1.png" alt="Home Screen" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Add Recipe Screen
+<img src="screenshots/Add_recipe.png" alt="Add Recipe Screen" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Categories Screen
+<img src="screenshots/Categories.png" alt="Add Recipe Screen" width="300"/>
+
+
+### Favorites Screen
+<img src="screenshots/Favorites.png" alt="Add Recipe Screen" width="300"/>
+
+
+➡️ See all screenshots in the [screenshots folder](screenshots/)
+
+---
+
+## Features & Achievements
+- **Cross-platform development:** Built with Flutter using a single codebase to deliver a native experience on both Android and iOS, with UI optimizations for each platform.
+- **Backend integration:** Integrated Firebase Authentication for login, Firestore as the main database for storing recipes and favorites, and Firebase Storage for image hosting.
+- **Clean architecture:** Organized code into layers (controllers, core, utilities, widgets) and built reusable components for better maintainability.
+- **Testing & deployment:** Added unit tests to ensure the reliability of core features and automated builds for both Android and iOS.
+
+---
+
+## Tech Stack
+- Flutter
+- Dart
+- Firebase (Authentication, Cloud Firestore, Storage)
+
+---
+
+## License
+This project is licensed under the **MIT License (Non-Commercial)** – see the [LICENSE](LICENSE) file for details.
