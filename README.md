@@ -8,18 +8,18 @@ A complete recipe application for both Android and **iOS** platforms, allowing u
 ##  App Screenshots
 ### Home Screen
 
-<img src="screenshots/Home1.png" alt="Home Screen" width="300"/>
+<img src="screenshots/Home1.png" alt="Home Screen" width="200"/>
 
 ### Add Recipe Screen
-<img src="screenshots/Add_recipe.png" alt="Add Recipe Screen" width="300"/>
+<img src="screenshots/Add_recipe.png" alt="Add Recipe Screen" width="200"/>
 
 
 ### Categories Screen
-<img src="screenshots/Categories.png" alt="Add Recipe Screen" width="300"/>
+<img src="screenshots/Categories.png" alt="Add Recipe Screen" width="200"/>
 
 
 ### Favorites Screen
-<img src="screenshots/Favorites.png" alt="Add Recipe Screen" width="300"/>
+<img src="screenshots/Favorites.png" alt="Add Recipe Screen" width="200"/>
 
 
 
