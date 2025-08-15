@@ -22,6 +22,8 @@ A complete recipe application for both Android and **iOS** platforms, allowing u
 <img src="screenshots/Favorites.png" alt="Add Recipe Screen" width="300"/>
 
 
+
+
 ➡️ See all screenshots in the [screenshots folder](screenshots/)
 
 ---
