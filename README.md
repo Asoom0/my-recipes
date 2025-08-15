@@ -31,8 +31,8 @@ A complete recipe application for both Android and **iOS** platforms, allowing u
 ## Features & Achievements
 - **Cross-platform development:** Built with Flutter using a single codebase to deliver a native experience on both Android and iOS, with UI optimizations for each platform.
 - **Backend integration:** Integrated Firebase Authentication for login, Firestore as the main database for storing recipes and favorites, and Firebase Storage for image hosting.
-- **Clean architecture:** Organized code into layers (controllers, core, utilities, widgets) and built reusable components for better maintainability.
-- **Testing & deployment:** Added unit tests to ensure the reliability of core features and automated builds for both Android and iOS.
+- **Multi-language support:** Supports both Arabic and English with RTL and LTR layout adjustments.
+
 
 ---
 
